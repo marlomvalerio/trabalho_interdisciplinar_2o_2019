@@ -1,0 +1,8 @@
+Entregue também um arquivo .txt orientando como deve ser executado o código.
+
+MATRÍCULA: 388614
+NOME: marlom Klismann Ferreira Valério
+
+OBSERVAÇÕES INICIAIS
+O projeto foi implementado utilizando recursos do Microsoft .NET Core 3.0, linguagem de programação C# e testes unitários com xUnit.
+Certifique-se que possua todos
